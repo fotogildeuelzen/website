@@ -1,3 +1,9 @@
 [submodule "www/themes/massively"]
-	path = www/themes/massively
+	path = themes/massively
+	url = https://github.com/curtistimson/hugo-theme-massively
+[submodule "themes/themes/massively"]
+	path = themes/themes/massively
+	url = https://github.com/curtistimson/hugo-theme-massively
+[submodule "themes/massively"]
+	path = themes/massively
 	url = https://github.com/curtistimson/hugo-theme-massively
