@@ -5,3 +5,8 @@ theme = "massively"
 [languages]
 [languages.en]
   languageName = "English"
+ [[menu.main]]
+    name = "Tanztitel"
+    url = "/"
+    weight = 1
+
