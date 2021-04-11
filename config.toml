@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "de-de"
 title = "Fotogilde Uelzen"
 theme = "massively"
+[languages]
+[languages.en]
+  languageName = "English"
